@@ -1,0 +1,17 @@
+/*
+============================================================================
+ Name		: NFCLauncher.h
+ Author	  : Lucian Tomuta
+ Copyright   : Your copyright notice
+ Description : This file provides the information required for building the
+				whole of a NFCLauncher.
+============================================================================
+*/
+
+PRJ_PLATFORMS
+DEFAULT
+
+PRJ_MMPFILES
+gnumakefile Icons_scalable_dc.mk
+NFCLauncher.mmp
+

@@ -1,0 +1,7 @@
+CHARACTER_SET UTF8 
+
+#define STRING_r_caption_short "AppName"
+#define STRING_r_caption "Application Name"
+
+#define STRING_r_nfc_mandatory "請更新裝置固件以執行本應用程式"
+#define STRING_r_nfc_optional "要享有這項和其他絕佳的 NFC 應用程式，請確認您有最新的手機軟件"

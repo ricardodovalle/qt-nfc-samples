@@ -1,0 +1,7 @@
+CHARACTER_SET UTF8 
+
+#define STRING_r_caption_short "AppName"
+#define STRING_r_caption "Application Name"
+
+#define STRING_r_nfc_mandatory "Vui lòng cập nhật phần sụn điện thoại để chạy ứng dụng này"
+#define STRING_r_nfc_optional "Để thưởng thức ứng dụng này và các ứng dụng NFC tuyệt vời khác, hãy đảm bảo bạn có phần mềm điện thoại mới nhất"

@@ -1,0 +1,7 @@
+CHARACTER_SET UTF8 
+
+#define STRING_r_caption_short "AppName"
+#define STRING_r_caption "Application Name"
+
+#define STRING_r_nfc_mandatory "Оновіть мікропрограму пристрою, щоб запустити цю програму"
+#define STRING_r_nfc_optional "Щоб користуватися цією програмою та іншими чудовими програмами NFC, у телефоні має бути встановлена остання версія програмного забезпечення"

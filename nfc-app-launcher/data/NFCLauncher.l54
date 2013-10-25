@@ -1,0 +1,7 @@
+CHARACTER_SET UTF8 
+
+#define STRING_r_caption_short "AppName"
+#define STRING_r_caption "Application Name"
+
+#define STRING_r_nfc_mandatory "Ενημερώστε το υλικολογισμικό της συσκευής σας για να εκτελέσετε αυτήν την εφαρμογή"
+#define STRING_r_nfc_optional "Για να απολαύσετε αυτήν την εφαρμογή, καθώς και άλλες εντυπωσιακές εφαρμογές NFC, βεβαιωθείτε ότι διαθέτετε το πιο πρόσφατο λογισμικό τηλεφώνου"

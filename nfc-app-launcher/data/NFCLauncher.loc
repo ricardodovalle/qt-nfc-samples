@@ -1,0 +1,112 @@
+#ifndef __LOCALIZATION_LOC__
+#define __LOCALIZATION_LOC__
+
+CHARACTER_SET UTF8
+
+#ifdef LANGUAGE_SC
+#include "..\data\NFCLauncher.l01"
+
+#elif LANGUAGE_01
+#include "..\data\NFCLauncher.l01"
+
+#elif LANGUAGE_02
+#include "..\data\NFCLauncher.l02"
+
+#elif LANGUAGE_03
+#include "..\data\NFCLauncher.l03"
+
+#elif LANGUAGE_04
+#include "..\data\NFCLauncher.l04"
+
+#elif LANGUAGE_05
+#include "..\data\NFCLauncher.l05"
+
+#elif LANGUAGE_06
+#include "..\data\NFCLauncher.l06"
+
+#elif LANGUAGE_07
+#include "..\data\NFCLauncher.l07"
+
+#elif LANGUAGE_08
+#include "..\data\NFCLauncher.l08"
+
+#elif LANGUAGE_09
+#include "..\data\NFCLauncher.l09"
+
+#elif LANGUAGE_10
+#include "..\data\NFCLauncher.l10"
+
+#elif LANGUAGE_13
+#include "..\data\NFCLauncher.l13"
+
+#elif LANGUAGE_14
+#include "..\data\NFCLauncher.l14"
+
+#elif LANGUAGE_16
+#include "..\data\NFCLauncher.l16"
+
+#elif LANGUAGE_17
+#include "..\data\NFCLauncher.l17"
+
+#elif LANGUAGE_18
+#include "..\data\NFCLauncher.l18"
+
+#elif LANGUAGE_25
+#include "..\data\NFCLauncher.l25"
+
+#elif LANGUAGE_26
+#include "..\data\NFCLauncher.l26"
+
+#elif LANGUAGE_27
+#include "..\data\NFCLauncher.l27"
+
+#elif LANGUAGE_29
+#include "..\data\NFCLauncher.l29"
+
+#elif LANGUAGE_30
+#include "..\data\NFCLauncher.l30"
+
+#elif LANGUAGE_31
+#include "..\data\NFCLauncher.l31"
+
+#elif LANGUAGE_33
+#include "..\data\NFCLauncher.l33"
+
+#elif LANGUAGE_37
+#include "..\data\NFCLauncher.l37"
+
+#elif LANGUAGE_51
+#include "..\data\NFCLauncher.l51"
+
+#elif LANGUAGE_54
+#include "..\data\NFCLauncher.l54"
+
+#elif LANGUAGE_57
+#include "..\data\NFCLauncher.l57"
+
+#elif LANGUAGE_58
+#include "..\data\NFCLauncher.l58"
+
+#elif LANGUAGE_59
+#include "..\data\NFCLauncher.l58"
+
+#elif LANGUAGE_70
+#include "..\data\NFCLauncher.l70"
+
+#elif LANGUAGE_76
+#include "..\data\NFCLauncher.l76"
+
+#elif LANGUAGE_78
+#include "..\data\NFCLauncher.l78"
+
+#elif LANGUAGE_83
+#include "..\data\NFCLauncher.l83"
+
+#elif LANGUAGE_93
+#include "..\data\NFCLauncher.l93"
+
+#elif LANGUAGE_96
+#include "..\data\NFCLauncher.l96"
+
+#endif 
+#endif

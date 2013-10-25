@@ -1,0 +1,63 @@
+; Installation file for Symbian OS 9.x for generic console application
+; Installation file for NFCLauncher EXE
+;
+; This is an auto-generated PKG file by Carbide.
+; This file uses variables specific to Carbide builds that will not work
+; on command-line builds. If you want to use this generated PKG file from the
+; command-line tools you will need to modify the variables with the appropriate
+; values: $(EPOCROOT), $(PLATFORM), $(TARGET)
+;
+
+;
+; UID is the exe's UID
+;
+#{"NFC Launcher"},(0xE1234567),1,0,0
+
+
+;Localised Vendor name
+%{"Forum Nokia"}
+
+;Unique Vendor name
+:"Forum Nokia"
+
+[0x20022E6D],*,*,*,{"Symbian^3 Platform"} 
+
+"$(EPOCROOT)Epoc32\release\$(PLATFORM)\$(TARGET)\NFCLauncher_E1234567.exe"		  -"!:\sys\bin\NFCLauncher_E1234567.exe"
+"$(EPOCROOT)epoc32/data/z/private/10003a3f/import/apps/NFCLauncher_E1234567_reg.rsc"    - "!:\private\10003a3f\import\apps\NFCLauncher_E1234567_reg.rsc"
+"$(EPOCROOT)epoc32/data/z/resource/apps/NFCLauncher_E1234567.mif"    - "!:\resource\apps\NFCLauncher_E1234567.mif"
+
+"$(EPOCROOT)epoc32/data/z/resource/apps/NFCLauncher_E1234567.rsc"    - "!:\resource\apps\NFCLauncher_E1234567.rsc"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r01"    - "!:\resource\apps\nfclauncher_E1234567.r01"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r02"    - "!:\resource\apps\nfclauncher_E1234567.r02"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r03"    - "!:\resource\apps\nfclauncher_E1234567.r03"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r04"    - "!:\resource\apps\nfclauncher_E1234567.r04"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r05"    - "!:\resource\apps\nfclauncher_E1234567.r05"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r06"    - "!:\resource\apps\nfclauncher_E1234567.r06"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r07"    - "!:\resource\apps\nfclauncher_E1234567.r07"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r08"    - "!:\resource\apps\nfclauncher_E1234567.r08"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r09"    - "!:\resource\apps\nfclauncher_E1234567.r09"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r10"    - "!:\resource\apps\nfclauncher_E1234567.r10"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r13"    - "!:\resource\apps\nfclauncher_E1234567.r13"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r14"    - "!:\resource\apps\nfclauncher_E1234567.r14"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r16"    - "!:\resource\apps\nfclauncher_E1234567.r16"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r17"    - "!:\resource\apps\nfclauncher_E1234567.r17"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r18"    - "!:\resource\apps\nfclauncher_E1234567.r18"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r25"    - "!:\resource\apps\nfclauncher_E1234567.r25"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r26"    - "!:\resource\apps\nfclauncher_E1234567.r26"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r27"    - "!:\resource\apps\nfclauncher_E1234567.r27"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r29"    - "!:\resource\apps\nfclauncher_E1234567.r29"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r30"    - "!:\resource\apps\nfclauncher_E1234567.r30"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r31"    - "!:\resource\apps\nfclauncher_E1234567.r31"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r33"    - "!:\resource\apps\nfclauncher_E1234567.r33"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r37"    - "!:\resource\apps\nfclauncher_E1234567.r37"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r51"    - "!:\resource\apps\nfclauncher_E1234567.r51"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r54"    - "!:\resource\apps\nfclauncher_E1234567.r54"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r57"    - "!:\resource\apps\nfclauncher_E1234567.r57"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r58"    - "!:\resource\apps\nfclauncher_E1234567.r58"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r59"    - "!:\resource\apps\nfclauncher_E1234567.r59"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r70"    - "!:\resource\apps\nfclauncher_E1234567.r70"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r76"    - "!:\resource\apps\nfclauncher_E1234567.r76"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r78"    - "!:\resource\apps\nfclauncher_E1234567.r78"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r83"    - "!:\resource\apps\nfclauncher_E1234567.r83"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r93"    - "!:\resource\apps\nfclauncher_E1234567.r93"
+"$(EPOCROOT)epoc32/data/z/resource/apps/nfclauncher_E1234567.r96"    - "!:\resource\apps\nfclauncher_E1234567.r96"

@@ -1,0 +1,45 @@
+/*
+============================================================================
+ Name		: NFCLauncher.mmp
+ Author	  : Lucian Tomuta
+ Copyright   : 2011 Forum Nokia
+ Description : This is the project specification file for NFCLauncher.
+============================================================================
+*/
+
+APP_LAYER_SYSTEMINCLUDE 
+
+TARGET		  NFCLauncher_E1234567.exe
+TARGETTYPE	  exe
+UID			 0 0xE1234567
+
+USERINCLUDE	 ..\inc
+SYSTEMINCLUDE   \epoc32\include
+
+SOURCEPATH	  ..\src
+SOURCE		  NFCLauncher.cpp
+
+SOURCEPATH			..\data
+LANG SC 01 02 03 04 05 06 07 08 09 10 13 14 16 17 18 25 26 27 29 30 31 33 37 51 54 57 58 59 70 76 78 83 93 96
+START RESOURCE		NFCLauncher.rss
+TARGETPATH		/resource/apps
+TARGET			NFCLauncher_E1234567
+HEADER
+END
+
+START RESOURCE		NFCLauncher_reg.rss
+LANG SC
+TARGETPATH		/private/10003a3f/import/apps
+TARGET			NFCLauncher_E1234567_reg.rsc
+END
+
+LIBRARY		euser.lib apparc.lib apgrfx.lib 
+LIBRARY		aknnotify.lib eiksrv.lib
+LIBRARY		featdiscovery.lib
+LIBRARY		hal.lib
+LIBRARY		bafl.lib
+LIBRARY		efsrv.lib 
+
+#ifdef ENABLE_ABIV2_MODE
+DEBUGGABLE_UDEBONLY
+#endif

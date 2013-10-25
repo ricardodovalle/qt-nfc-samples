@@ -1,0 +1,7 @@
+CHARACTER_SET UTF8 
+
+#define STRING_r_caption_short "AppName"
+#define STRING_r_caption "Application Name"
+
+#define STRING_r_nfc_mandatory "请更新您的设备固件以便运行此应用程序"
+#define STRING_r_nfc_optional "安装最新手机软件后才能享受此NFC程序及其他精彩NFC程序"

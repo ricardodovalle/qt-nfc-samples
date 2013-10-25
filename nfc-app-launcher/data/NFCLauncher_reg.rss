@@ -1,0 +1,21 @@
+/*
+============================================================================
+ Name		: NFCLauncher.mmp
+ Author	  : Lucian Tomuta
+ Copyright   : 2011 Forum Nokia
+ Description : Registration resource file for QtInfo Launcher.
+============================================================================
+*/
+
+#include <appinfo.rh>
+#include <NFCLauncher.rsg>
+
+UID2 KUidAppRegistrationResourceFile
+UID3 0xE1234567
+
+RESOURCE APP_REGISTRATION_INFO
+	{
+	app_file="NFCLauncher_E1234567";
+	localisable_resource_file="\\resource\\apps\\NFCLauncher_E1234567";
+	localisable_resource_id = R_LOCALISABLE_APP_INFO;
+	}

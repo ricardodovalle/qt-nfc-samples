@@ -1,0 +1,7 @@
+CHARACTER_SET UTF8 
+
+#define STRING_r_caption_short "AppName"
+#define STRING_r_caption "Application Name"
+
+#define STRING_r_nfc_mandatory "Az alkalmazás futtatásához frissítse a készülék firmware-ét"
+#define STRING_r_nfc_optional "Ha élvezni szeretné ennek és más NFC alkalmazásoknak az előnyeit, kérjük, győződjön meg arról, hogy telefonjára a legfrissebb szoftver van telepítve"

@@ -1,0 +1,7 @@
+CHARACTER_SET UTF8 
+
+#define STRING_r_caption_short "AppName"
+#define STRING_r_caption "Application Name"
+
+#define STRING_r_nfc_mandatory "Uppdatera enhetens firmware för att köra programmet"
+#define STRING_r_nfc_optional "Se till att du har den senaste programvaran för din telefon för att njuta av detta och andra NFC-program"

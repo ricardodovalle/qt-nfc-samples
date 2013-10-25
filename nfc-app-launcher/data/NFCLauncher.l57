@@ -1,0 +1,7 @@
+CHARACTER_SET UTF8 
+
+#define STRING_r_caption_short "AppName"
+#define STRING_r_caption "Application Name"
+
+#define STRING_r_nfc_mandatory "עדכן את קושחת ההתקן כדי להפעיל יישום זה"
+#define STRING_r_nfc_optional "כדי להינות מיישום זה ומיישומים נהדרים אחרים של NFC, ודא שיש ברשותך את תוכנת הטלפון העדכנית ביותר"

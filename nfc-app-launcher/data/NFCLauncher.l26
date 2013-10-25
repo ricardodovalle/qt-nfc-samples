@@ -1,0 +1,7 @@
+CHARACTER_SET UTF8 
+
+#define STRING_r_caption_short "AppName"
+#define STRING_r_caption "Application Name"
+
+#define STRING_r_nfc_mandatory "Ak chcete používať túto aplikáciu, aktualizujte si firmvér zariadenia"
+#define STRING_r_nfc_optional "Ak chcete využívať túto aplikáciu a ďalšie skvelé aplikácie NFC, musíte mať v telefóne nainštalovaný najnovší softvér"

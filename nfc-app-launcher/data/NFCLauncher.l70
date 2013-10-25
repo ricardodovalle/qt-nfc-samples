@@ -1,0 +1,7 @@
+CHARACTER_SET UTF8 
+
+#define STRING_r_caption_short "AppName"
+#define STRING_r_caption "Application Name"
+
+#define STRING_r_nfc_mandatory "Sila kemas kini perkakasan tegar anda untuk menjalankan aplikasi ini"
+#define STRING_r_nfc_optional "Untuk menikmati ini dan aplikasi NFC hebat yang lain, sila pastikan anda mempunyai perisian telefon yang terkini"
