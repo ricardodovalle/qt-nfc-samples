@@ -1,12 +1,18 @@
+Qt NFC Samples
+==============
 
-The P2Pexample application is a multiplayer game, the purpose of which is to collect a full stack of matching images. Each player starts with a random set of images. The players can view each other's images and exchange a single image during each connection session. A custom Qt Quick user interface shows the players' images and allows the selection of a single image for exchange during the next NFC connection session. Dialog boxes are displayed at game startup and when a player meets the winning condition. After winning, the winning player's game is reset.
+This project consists of three NFC samples implemented with Qt:
 
-[[Image(wiki:WikiStart:nfcpeertopeer_game_small.png)]]
+* [NFC App Launcher](https://github.com/nokia-developer/qt-nfc-samples/tree/master/nfc-app-launcher)
+* [NFC Peer-to-peer example](https://github.com/nokia-developer/qt-nfc-samples/tree/master/nfc-peer-to-peer-example)
+* [NFC Settings App](https://github.com/nokia-developer/qt-nfc-samples/tree/master/nfc-settings-app)
 
-For more information about the application and project, see the [wiki:WikiStart Wiki page] .
+This project is hosted in GitHub:
+https://github.com/nokia-developer/qt-nfc-samples
 
-'''Compatibility:'''
+For more information, see the wiki:
+https://github.com/nokia-developer/qt-nfc-samples/wiki
 
-* Nokia C7-00 with Symbian Anna firmware (software version 020.000 or later)
-* Nokia Qt SDK 1.1 (Qt 4.7.3)
-* !QtMobility 1.2 Beta 1
+---
+
+*Copyright (c) 2011-2013 Nokia Corporation. All rights reserved.*
